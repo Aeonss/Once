@@ -10,32 +10,31 @@ and contains a variety of fun, custom commands related to Twice.</font>
 
 ## 🚀 &nbsp; Commands
 $twice - Plays a random Twice song
-$twice5 - Plays 5 random Twice songs
-$play - Plays music from a Youtube URL
-$skip - Skips the current song
-$song - Displays the current playing song
-$queue - Displays the music queue
-$stop - Stops the player and clears the playlis
-$clear - Clears the playlist
-$remove - Removes a song from the playlist
+<br>$twice5 - Plays 5 random Twice songs
+<br>$play - Plays music from a Youtube URL
+<br>$skip - Skips the current song
+<br>$song - Displays the current playing song
+<br>$queue - Displays the music queue
+<br>$stop - Stops the player and clears the playlis
+<br>$clear - Clears the playlist
+<br>$remove - Removes a song from the playlist
 
 ---------------------------------
-
 $idol - Shows a random Twice image
-$fact - Gives a random Twice fact
-$agra - Agra's favorite Twice song
-$rose - Rose's favorite Twice song
-$basic - Basic's favorite Twice song
-$mars - Mars's favorite Twice song
-$squad - Plays the squad's favorite Twice songs
+<br>$fact - Gives a random Twice fact
+<br>$agra - Agra's favorite Twice song
+<br>$rose - Rose's favorite Twice song
+<br>$basic - Basic's favorite Twice song
+<br>$mars - Mars's favorite Twice song
+<br>$squad - Plays the squad's favorite Twice songs
 
 ---------------------------------
 $8ball - Roll the 8 ball
-$sus - Get the sussyness of a user
-$vcsus - Get the sussyness of the vc
-$cute - See how cute someone is
-$cap - See how much someone is capping
-$roll - Roll an n sided side (default = 6)
+<br>$sus - Get the sussyness of a user
+<br>$vcsus - Get the sussyness of the vc
+<br>$cute - See how cute someone is
+<br>$cap - See how much someone is capping
+<br>$roll - Roll an n sided side (default = 6)
 
 ## ✅ &nbsp; Additional Information
 * Made with Java 17, Maven, JDA, and LavaPlayer
