@@ -9,13 +9,14 @@ and contains a variety of fun, custom commands related to Twice.</font>
 <font size="3">
 
 ## 🚀 &nbsp; Commands
-$twice - Plays a random Twice song
-<br>$twice5 - Plays 5 random Twice songs
-<br>$play - Plays music from a Youtube URL
+<br>$play - Plays music from a YouTube URL
+<br>$kpop (#) - Plays a random girl group Kpop song
+<br>$twice (#) - Plays a random Twice song
+<br>$dreamcatcher (#) - Plays a random Dreamcatcher song
 <br>$skip - Skips the current song
 <br>$song - Displays the current playing song
 <br>$queue - Displays the music queue
-<br>$stop - Stops the player and clears the playlis
+<br>$stop - Stops the player and clears the playlist
 <br>$clear - Clears the playlist
 <br>$remove - Removes a song from the playlist
 
@@ -29,12 +30,12 @@ $idol - Shows a random Twice image
 <br>$squad - Plays the squad's favorite Twice songs
 
 ---------------------------------
-$8ball - Roll the 8 ball
+$8ball - Roll the 8-ball
 <br>$sus - Get the sussyness of a user
 <br>$vcsus - Get the sussyness of the vc
 <br>$cute - See how cute someone is
 <br>$cap - See how much someone is capping
-<br>$roll - Roll an n sided side (default = 6)
+<br>$roll - Roll an n sided dice (default = 6)
 
 ## ✅ &nbsp; Additional Information
 * Made with Java 17, Maven, JDA, and LavaPlayer

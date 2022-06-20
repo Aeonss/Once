@@ -197,7 +197,7 @@ public class PlayerManager {
         else {
             AudioTrack track = (AudioTrack) musicManager.scheduler.queue.toArray()[num - 2];
 
-            musicManager.scheduler.queue.remove(musicManager.scheduler.queue.toArray()[num - 2]);
+            musicManager.scheduler.queue.remove(track);
 
             textChannel.sendMessageEmbeds(new EmbedBuilder()
                     .setColor(Color.RED)
